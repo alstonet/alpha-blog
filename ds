@@ -1,0 +1,47 @@
+[33mcommit 0df9c20a5505be0d63faa10aa9764fe904430a7c[m
+Author: Rails Udemy Course <railsudemycourse@gmail.com>
+Date:   Thu Apr 20 18:19:08 2017 +0800
+
+    add partials and destroy action
+
+[33mcommit 2d16b7bb9ccde73d26e390656758cf5b7db097cd[m
+Author: Rails Udemy Course <railsudemycourse@gmail.com>
+Date:   Thu Apr 20 18:04:29 2017 +0800
+
+    Add edit, update, show, and index listing
+
+[33mcommit 55aaabdc4fc98c327a5a2ca6bc824bba4cfe8c32[m
+Author: Rails Udemy Course <railsudemycourse@gmail.com>
+Date:   Thu Apr 20 17:07:39 2017 +0800
+
+    Fix create, add flash and error messages, create show
+
+[33mcommit 0d01aed66d3a650d8ce33aa33a5fa9ef6e3eda3c[m
+Author: Rails Udemy Course <railsudemycourse@gmail.com>
+Date:   Thu Apr 20 15:57:57 2017 +0800
+
+    create new template, action, and route
+
+[33mcommit 011a00475339fe26e2ebfdbeb70bd01d85240ca8[m
+Author: Rails Udemy Course <railsudemycourse@gmail.com>
+Date:   Thu Apr 20 15:13:10 2017 +0800
+
+    Create articles table, model, and add validations
+
+[33mcommit d3330a6eb3902e8e83dc868dac673ec32decb7b6[m
+Author: Rails Udemy Course <railsudemycourse@gmail.com>
+Date:   Tue Apr 18 13:58:54 2017 +0800
+
+    Make app production ready
+
+[33mcommit f4214ac246e1ad38982324442d7ad4eba566368c[m
+Author: Rails Udemy Course <railsudemycourse@gmail.com>
+Date:   Tue Apr 18 13:17:14 2017 +0800
+
+    modify readme for repo
+
+[33mcommit 4e085f0ef430389707f3ada8b3b70ec7b65f66ff[m
+Author: Rails Udemy Course <railsudemycourse@gmail.com>
+Date:   Tue Apr 18 12:51:08 2017 +0800
+
+    Create rails application and setup home and about pages, initial commit
